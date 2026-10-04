@@ -8,7 +8,7 @@
 
    Example:
 
-   const RECIPIENT_NAME = "Suuuuuuu";
+   const RECIPIENT_NAME = "Rameen baby";
 
    ========================================================= */
 
@@ -17,7 +17,7 @@
    RECIPIENT
 ========================================================= */
 
-const RECIPIENT_NAME = "__________";
+const RECIPIENT_NAME = "Rameen baby";
 
 
 /* =========================================================
@@ -73,13 +73,13 @@ const photoReveal =
 
 
 /* =========================================================
-   INSERT RECIPIENT NAME
+   Mari jaan Rameen
 ========================================================= */
 
 function setRecipientName() {
 
     document.title =
-        `Happy Birthday ${RECIPIENT_NAME} ❤️`;
+        `Happy Birthday ${Mari jaan } ❤️`;
 
 
     const introName =
